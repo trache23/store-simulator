@@ -1,5 +1,4 @@
 # store-simulator
-Sure, I'd be happy to help you design a new portfolio project assignment for future terms. Here's an idea:
 
 Topic: Online Store Simulator
 
